@@ -33,7 +33,7 @@ st.caption("Regla: por cada 30 L de agua → 70 mL de Oxonia")
 st.divider()
 
 sistema = st.radio(
-    "Selecciona el sistema (solo 1):",
+    "Selecciona el sistema",
     options=list(SISTEMAS.keys()),
     horizontal=True
 )
