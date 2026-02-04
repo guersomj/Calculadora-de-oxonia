@@ -22,7 +22,7 @@ SISTEMAS = {
     "PBS": {"tanque": 1200, "proceso": 1000},
     "BBG": {"tanque": 500, "proceso": 120},
     "BGA": {"tanque": 500, "proceso": 180},
-    "5GL": {"tanque": 500, "proceso": 120},
+    "5GL": {"tanque": 500, "proceso": 200},
     "BBB": {"tanque": 500, "proceso": 80},
     "BBS": {"tanque": 200, "proceso": 30},
 }
