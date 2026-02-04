@@ -24,7 +24,7 @@ SISTEMAS = {
     "BGA": {"tanque": 500, "proceso": 180},
     "5GL": {"tanque": 500, "proceso": 120},
     "BBB": {"tanque": 500, "proceso": 80},
-    "BBS": {"tanque": 500, "proceso": 30},
+    "BBS": {"tanque": 200, "proceso": 30},
 }
 
 # ---------------- UI ----------------
